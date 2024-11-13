@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 211.66666 211.66667"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   sodipodi:docname="inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#091229"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69219276"
+     inkscape:cx="317.1082"
+     inkscape:cy="422.57015"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       transform="matrix(0.16049383,0,0,-0.16049383,-134.90741,266.01523)"
+       fill="#ffffff"
+       stroke="#ffffff"
+       stroke-width="10"
+       id="g4"><path
+         d="m 1464,1460 c -48,-19 -71,-102 -41,-141 61,-80 189,-25 170,74 -10,52 -80,88 -129,67 z m 84,-49 c 21,-27 11,-73 -20,-91 -25,-13 -31,-13 -55,0 -30,17 -38,38 -29,74 11,44 75,54 104,17 z"
+         id="path1" /><path
+         d="m 1430,1245 c 0,-13 12,-15 67,-13 42,2 68,8 71,16 3,9 -15,12 -67,12 -57,0 -71,-3 -71,-15 z"
+         id="path2" /><path
+         d="m 1484,1206 c -3,-8 -3,-20 1,-26 4,-7 -22,-10 -79,-10 -76,0 -110,-10 -92,-27 3,-3 41,-5 85,-4 l 80,2 3,-246 3,-247 -45,7 c -112,17 -211,91 -264,197 -49,97 -48,104 14,100 45,-4 50,-2 50,17 0,19 -6,21 -70,21 -38,0 -70,-4 -70,-8 0,-28 34,-131 56,-168 57,-97 175,-175 288,-190 l 41,-6 -4,-44 c -3,-39 -1,-44 18,-44 22,0 22,0 21,303 l -1,302 81,1 c 45,1 84,4 87,7 16,17 -17,27 -91,27 -78,0 -83,1 -82,21 1,26 -21,37 -30,15 z"
+         id="path3" /><path
+         d="m 1760,969 c 0,-19 5,-21 50,-17 60,4 61,-2 24,-82 -48,-104 -113,-164 -217,-200 -57,-20 -82,-56 -30,-44 96,22 207,103 258,189 21,36 55,139 55,167 0,4 -31,8 -70,8 -64,0 -70,-2 -70,-21 z"
+         id="path4" /></g></g></svg>
